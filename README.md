@@ -1,5 +1,5 @@
 # Airline Reservation System 
-It is a replica program of Flight booking system.
+It is a replica  of Flight booking system.
 
 
 
